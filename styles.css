@@ -1,6 +1,6 @@
 
 /* Your CSS Code here. */
-.container div {
+div {
     width: 200px;
     box-flex-group: purple;
     border-left-color: green;
@@ -11,7 +11,4 @@
 #heading{
     color: white;
     width: 20px;
-}
-div{
-    width: 200px;
 }
